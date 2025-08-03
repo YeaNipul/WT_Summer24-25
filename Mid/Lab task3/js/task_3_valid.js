@@ -27,6 +27,8 @@
         "email:" + email + "\n" +
         "creatpasswoard" + Createpasswoard + "\n" +
         "confirmpasswoard:" + Confirmpasswoard + "\n" +
-        "donation:" + donationName + "\n" +
+        "donationammount:" +Donationamount  + "\n" +
+        "other ammount:" + otherammount  + "\n" +
+        "name:" +  + "\n" +
         
     );
