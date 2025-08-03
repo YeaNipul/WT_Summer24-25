@@ -6,10 +6,9 @@
     var State = document.getElementById("State").value;
     var phone = document.getElementById("phnne").value;
     var email = document.getElementById("email").value;
-    var Createpasswoard = document.getElementById("Createpasswoard").value;
+    var Createpasswoard = document.getElementById("password").value;
     var Confirmpasswoard = document.getElementById("Confirm passwoard").value;
     var Donationamount = document.getElementById("Donation amount").value;
-    var other amount = document.getElementById("other amount").value;
     var checkbox1 = document.getElementById("checkbox1").value;
     var checkbox2 = document.getElementById("checkbox2").value;
     var textarea = document.getElementById("textarea").value;

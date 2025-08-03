@@ -27,7 +27,7 @@ h3{
 
 
 input[type="text"], input[type="Emaill"],
-input[type="Number"], input[type="passwoard"],{
+input[type="Number"], input[type="passwoard"]{
     width: 60%;
     height: 45%;
     background-color: black;
