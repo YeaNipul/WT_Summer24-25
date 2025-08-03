@@ -1,0 +1,40 @@
+h1{
+    color:red;
+    text-align: left;
+}
+.maindiv{
+    width: 550px;
+    background-color: rgb(182, 194, 219);
+}
+
+form{
+    width: 100%;
+    padding: 35;
+}
+
+h4{
+    color: black;
+    text-align: left;
+    margin-right: 60px;
+    margin-bottom: 0%;
+}
+h3{
+    color:red;
+    text-align: left;
+    margin-right: 60px;
+    margin-bottom: 0%;
+}
+
+
+input[type="text"], input[type="Emaill"],
+input[type="Number"], input[type="passwoard"],{
+    width: 60%;
+    height: 45%;
+    background-color: black;
+    border: 2px;
+    border: radius 8px;
+    margin: button 15px;
+
+
+    
+}
