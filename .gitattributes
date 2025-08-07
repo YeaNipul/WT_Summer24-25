@@ -1,0 +1,4 @@
+*.html linguist-language=HTML
+*.js linguist-language=JavaScript
+/node_modules/* linguist-vendored
+*.min.js linguist-vendored
